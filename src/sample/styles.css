@@ -1,0 +1,25 @@
+#btn{
+-fx-background-color:white;
+-fx-text-fill:rgb(55,165,85);
+-fx-border-color:rgb(55,165,85);
+-fx-border-radius:3px;
+-fx-font: bold 16px "Arial";
+}
+#btn:hover{
+-fx-background-color:rgb(55,165,85);
+-fx-text-fill:white;
+}
+#clear{
+-fx-background-color:white;
+-fx-text-fill:rgb(105,35,69);
+-fx-border-color:rgb(105,35,69);
+-fx-border-radius:3px;
+-fx-font: bold 12px "Arial";
+}
+#clear:hover{
+-fx-background-color:rgb(105,35,69);
+-fx-text-fill:white;
+}
+#label{
+-fx-font:bold 14px "Arial";
+}
